@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "909905095634",
+    "project_id": "count-on-it-savar",
+    "storage_bucket": "count-on-it-savar.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:909905095634:android:2eb7aa0ac658115fd5360b",
+        "android_client_info": {
+          "package_name": "com.example.count_on_it"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "909905095634-rspapchperjksvqtkfl1plk7l3ka2bld.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXoJ0LR8X3ZX-I3ScXzHD5MakaA3hKjxI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "909905095634-rspapchperjksvqtkfl1plk7l3ka2bld.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "909905095634-29lve14ev6eq2ujqd1nul2unhs91hknn.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.countOnIt"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
